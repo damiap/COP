@@ -1,0 +1,8 @@
+{
+  "secure": false,
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\Damiana\\Documents\\IPython Notebooks",
+  "url": "http://localhost:8888/",
+  "base_url": "/",
+  "port": 8888
+}
