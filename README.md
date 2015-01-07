@@ -8,6 +8,6 @@ Stabilography data
 
 [COPFreq] (http://nbviewer.ipython.org/github/damiap/COP/blob/master/COPFreq.ipynb)
 
-[COPVeloRes] (https://raw.githubusercontent.com/damiap/COP/master/COPVeloRes.ipynb)
+[COPVeloRes] (http://nbviewer.ipython.org/github/damiap/COP/blob/master/COPVeloRes.ipynb)
 
 
